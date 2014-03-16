@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Libro"/>
+	<classpathentry excluding="Estructuras repetitivas y condicionales/|Estructuras repetitivas y condicionales/" kind="src" path="Ejercicios con estructuras de control"/>
+	<classpathentry kind="src" path="Ejercicios con estructuras de control/Estructuras repetitivas y condicionales"/>
+	<classpathentry kind="src" path="Ejercicios propuestos de metodos"/>
+	<classpathentry kind="src" path="Ejercicios de arrays unidimensionales"/>
+	<classpathentry kind="src" path="Ejercicios de arrays bidimensionales"/>
+	<classpathentry kind="src" path="Strings"/>
+	<classpathentry kind="src" path="InterfazGrafica"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="ejerciciosPOO"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

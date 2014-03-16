@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">RadioButton</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">RadioButton</string>
+    <string name="TVvalor">Ingrese un valor</string>
+    <string name="RBsumar">Sumar</string>
+	<string name="RBrestar">Restar</string>
+    <string name="BTNoperar">Operar</string>
+    <string name="TVresultado">Resultado</string>
+    
+</resources>

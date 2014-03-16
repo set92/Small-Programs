@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">016. UsandoThreads</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Actividad Main</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_calcular">Calcular</string>
+    <string name="tvBienvenido">Bienvenido</string>
+    <string name="ivLogeo">Imagen de Logeo</string>
+
+</resources>

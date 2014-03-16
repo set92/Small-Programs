@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Checkbox</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">CheckBox</string>
+    <string name="TVvalor">Ingrese un valor</string>
+    <string name="CBsumar">Sumar</string>
+	<string name="CBrestar">Restar</string>
+    <string name="BTNoperar">Operar</string>
+    <string name="TVresultado">Resultado</string>
+    
+</resources>

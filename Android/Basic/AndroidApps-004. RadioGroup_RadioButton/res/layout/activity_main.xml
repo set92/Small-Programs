@@ -1,0 +1,78 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/TVvalor1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/TVvalor" />
+
+    <EditText
+        android:id="@+id/ETvalor1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/TVvalor1"
+        android:ems="10"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/TVvalor2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ETvalor1"
+        android:text="@string/TVvalor" />
+
+    <EditText
+        android:id="@+id/ETvalor2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/TVvalor2"
+        android:ems="10"
+        android:inputType="number" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ETvalor2" >
+
+        <RadioButton
+            android:id="@+id/RBsumar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="@string/RBsumar" />
+
+        <RadioButton
+            android:id="@+id/RBrestar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/RBrestar" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/BTNsumar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/radioGroup1"
+        android:text="@string/BTNoperar"
+        android:onClick="operar" />
+
+    <TextView
+        android:id="@+id/TVresultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/BTNsumar"
+        android:text="@string/TVresultado" />
+
+</RelativeLayout>

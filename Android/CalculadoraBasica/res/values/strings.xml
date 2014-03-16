@@ -1,0 +1,13 @@
+<resources>
+	
+    <string name="app_name">CalculadoraBasica</string>
+    <string name="encabezado">Bienvenidos a la calculadora Basica, unicamente puedes introducir numeros y pulsar el boton de sumar.</string>
+    <string name="title_activity_main">Calculadora</string>
+    <string name="BtnSumar">Click para Sumar</string>
+    <string name="Resultado_Suma"></string>
+    
+    <string name="titulo_settings">Ajustes</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="about">Acerca de &#8230;</string>
+
+</resources>

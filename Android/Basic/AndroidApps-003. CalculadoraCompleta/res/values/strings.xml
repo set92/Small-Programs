@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Calculadora Completa</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="title_activity_main">Calc.Completa</string>
+    <string name="btn_num0">0</string>
+	<string name="btn_num1">1</string>
+    <string name="btn_num2">2</string>
+    <string name="btn_num3">3</string>
+    <string name="btn_num4">4</string>
+    <string name="btn_num5">5</string>
+    <string name="btn_num6">6</string>
+    <string name="btn_num7">7</string>
+    <string name="btn_num8">8</string>
+    <string name="btn_num9">9</string>
+    
+    <string name="btn_sumar">+</string>
+    <string name="btn_restar">-</string>
+    <string name="btn_multiplicar">*</string>
+    <string name="btn_dividir">/</string>
+    <string name="btn_borrar">C</string>
+	<string name="btn_resultado">=</string>
+    
+</resources>

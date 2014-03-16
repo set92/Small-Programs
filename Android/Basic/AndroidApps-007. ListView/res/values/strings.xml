@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ListView</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ListView</string>
+    
+    <string name="TVresultado">Aqui se visualizara el resultado</string>
+
+</resources>

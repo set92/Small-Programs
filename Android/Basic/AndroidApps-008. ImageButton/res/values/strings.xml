@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ImageButton</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ImageButton</string>
+    
+    <string name="IBlogo_set92">Logo de set92</string>
+    <string name="TVtexto">Texto</string>
+
+</resources>

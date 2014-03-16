@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">014. Elecciones</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">AlmacenamientoDB_SQLite</string>
+    
+    <string name="tvDNI">DNI</string>
+    <string name="tvNombre">Nombre del alumno</string>
+    <string name="tvColegio">Nombre del colegio</string>
+    <string name="tvMesa">Numero de mesa</string>
+    <string name="btnAltaDB">Alta</string>
+    <string name="btnConsultaDB">Consulta por DNI</string>
+    <string name="btnBajaDB">Baja</string>
+    <string name="btnModificacionDB">Modificacion</string>
+
+</resources>

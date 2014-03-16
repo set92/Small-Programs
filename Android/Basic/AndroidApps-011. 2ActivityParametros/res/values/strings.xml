@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">009. 2ActivityParametros</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">2 Activity Parametros</string>
+    
+    <string name="BtnAcercaDe"> Acerca de…</string>
+    <string name="TvIngresar">Ingrese un sitio web (Ej. www.reddit.com)</string>
+    <string name="BtnFinalizar">Finalizar</string>
+    <string name="BtnVer">Ver</string>
+
+</resources>

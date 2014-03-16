@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/TVvalor1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/TVvalor1" />
+
+    <EditText
+        android:id="@+id/ETvalor1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/TVvalor1"
+        android:ems="20"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/TVvalor2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ETvalor1"
+        android:text="@string/TVvalor2" />
+
+    <EditText
+        android:id="@+id/ETvalor2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/TVvalor2"
+        android:ems="12"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/btnsumar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/ETvalor2"
+        android:text="@string/btnsumar"
+        android:onClick="sumar" />
+
+    <TextView
+        android:id="@+id/TVresultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/btnsumar"
+        android:text="@string/TVresultado" />
+	
+</RelativeLayout>

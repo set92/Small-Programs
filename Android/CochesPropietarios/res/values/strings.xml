@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">App Concesionario</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Menu</string>
+    <string name="title_activity_form_propietarios">Propietarios</string>
+    <string name="tvBienvenidos">Bienvenidos</string>
+    <string name="tvNombreEmpresa">Tobalsa</string>
+    <string name="btnAlta">Alta</string>
+    <string name="btnBaja">Baja</string>
+    <string name="btnModificacion">Modificacion</string>
+    <string name="btnConsulta">Consulta</string>
+    <string name="rbPropietarios">Propietarios</string>
+    <string name="rbCoches">Coches</string>
+    <string name="title_activity_form_coches">Coches</string>
+    <string name="tvNombre">Nombre</string>
+    <string name="tvEdad">Edad</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="btnCancelar">Cancelar</string>
+    <string name="tvMatricula">Matricula</string>
+    <string name="tvMarca">Marca</string>
+    <string name="tvPotencia">Potencia</string>
+    <string name="tvDNI">DNI</string>
+    <string name="title_activity_consulta_coches">ConsultaCoches</string>
+
+</resources>

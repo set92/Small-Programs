@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Sumar2valores</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_actv__main">Sumar2valores</string>
+    <string name="TVvalor1">Ingrese Primer valor</string>
+    <string name="TVvalor2">Ingrese Segundo valor</string>
+    <string name="btnsumar">Sumar</string>
+    <string name="TVresultado">Resultado</string>
+
+</resources>

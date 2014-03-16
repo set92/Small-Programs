@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Spinner</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Spinner</string>
+    <string name="TVvalor">Ingrese un valor</string>
+
+    <string name="BTNoperar">Operar</string>
+    <string name="TVresultado">Resultado</string>
+    
+</resources>

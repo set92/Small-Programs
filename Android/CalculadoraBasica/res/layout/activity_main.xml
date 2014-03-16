@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/TextoInicio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/padding_medium"
+        android:text="@string/encabezado"
+        tools:context=".Main" />
+    
+    <EditText
+        android:id="@+id/Numero1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/TextoInicio"
+        android:inputType="number|none" />
+
+    <EditText 
+        android:id="@+id/Numero2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Numero1"
+        android:inputType="number|none" />
+    
+    <Button 
+        android:id="@+id/BtnSumar"
+        android:text="@string/BtnSumar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Numero2"
+        android:onClick="suma"/>
+    
+    <EditText
+        android:id="@+id/Resultado_Suma"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/BtnSumar"
+        android:inputType="text"
+        android:clickable="false" 
+        android:cursorVisible="false" 
+        android:focusable="false" 
+        android:focusableInTouchMode="false"/>
+
+    <Button
+        android:id="@+id/ajustes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="Ajustes"
+        android:onClick="ajustes" />
+
+</RelativeLayout>
